@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [https://github.com/ChinatuL/3-Column-Preview-Card-Component](https://github.com/ChinatuL/3-Column-Preview-Card-Component)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [https://chinatul.github.io/3-Column-Preview-Card-Component/](https://chinatul.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
 
